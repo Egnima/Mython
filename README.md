@@ -1,6 +1,9 @@
 # Minecraft with Python (이하 Mython)  
 * SNUCODE PROJECT
 
+## Email
+* chooheonoh@gmail.com
+
 ## MYTHON 설치 방법
 > ### https://drive.google.com/file/d/1czDUJYr93kmCnpa-PK7bf4GXyy7vz9wp/view?usp=sharing Chapter 1 참조
 >
