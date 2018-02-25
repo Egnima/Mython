@@ -2,7 +2,7 @@
 * SNUCODE PROJECT
 
 ## Email
-* chooheonoh@gmail.com
+* [Egnima](chooheonoh@gmail.com) (Gmail)
 
 ## MYTHON 설치 방법
 > ### https://drive.google.com/file/d/1czDUJYr93kmCnpa-PK7bf4GXyy7vz9wp/view?usp=sharing Chapter 1 참조
@@ -39,3 +39,9 @@
 
 ## Mython Installer (beta)
 > * https://www.dropbox.com/s/onl6zxms0ddtnuk/Mython_Installer.zip?dl=1
+
+## 추가 해야 할 점 (메모)
+> ### Portable Mython
+> *minecraftPythonAPI.zip 파일을 scripts 파일에 넣고 'python -m pip install minecraftPythonAPI.zip' 실행*
+> - [ ] Portable Java runtime  
+> - [ ] Portable Python  
