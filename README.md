@@ -31,6 +31,7 @@
 >    mc = Minecraft.create()
 >    mc.postToChat("Hello world")
 >    ```
+
 ## 참고 문헌
 > * https://nostarch.com/programwithminecraft   
 > * https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/5
@@ -42,6 +43,7 @@
 
 ## 추가 해야 할 점 (메모)
 > ### Portable Mython
-> *minecraftPythonAPI.zip 파일을 scripts 파일에 넣고 'python -m pip install minecraftPythonAPI.zip' 실행*
 > - [ ] Portable Java runtime  
 > - [ ] Portable Python  
+> * minecraftPythonAPI.zip 파일을 scripts 파일에 넣고 'python -m pip install minecraftPythonAPI.zip' 실행
+> * winpython zero 버전에서 Spder 실행시 에러남 Winpython Command Prompt 가서 'pip install Spyder' 실행
