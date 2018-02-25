@@ -22,7 +22,7 @@ def Convert(x1, y1, z1, x2, y2, z2):
                 print(xlow + x, ylow + y, zlow + z, blockType)
                 block = 5
 
-                # http://www.stuffaboutcode.com/p/minecraft-api-reference.html 
+                """# http://www.stuffaboutcode.com/p/minecraft-api-reference.html 
                 if blockType == Block.Block(3, 0):
                     block = 1
                 elif blockType == Block.Block(17, 0):
@@ -46,8 +46,8 @@ def Convert(x1, y1, z1, x2, y2, z2):
                 elif blockType == Block.Block(79, 0):
                     block = 16  
                 elif blockType == Block.Block(35, 4):
-                    block = 17
-                elif blockType == Block.AIR:
+                    block = 17"""
+                if blockType == Block.AIR:
                     block = 0
 
                 array.append(block)
@@ -55,9 +55,9 @@ def Convert(x1, y1, z1, x2, y2, z2):
 
     tempX = xhigh - xlow
     tempY = yhigh - ylow
-    tempZ = xhigh - xlow
+    tempZ = zhigh - zlow
 
-    array.reverse()
+    # array.reverse()
 
     textData  = "var map = " + str(array) + ";\n"
     textData += "var i = 0\n"
