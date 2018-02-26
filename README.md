@@ -38,8 +38,10 @@
 > * http://www.stuffaboutcode.com/p/minecraft.html
 > * https://minecraft-ko.gamepedia.com/Server.properties
 
-## Mython Installer (beta)
-> * https://www.dropbox.com/s/onl6zxms0ddtnuk/Mython_Installer.zip?dl=1
+## Mython Launcher
+> * [MythonLauncher](https://github.com/Egnima/MythonLauncher.git)
+> * [Download](https://www.dropbox.com/s/7osyrgkngfitpq8/Mython_Launcher.zip?dl=1)
+> * ~~https://www.dropbox.com/s/onl6zxms0ddtnuk/Mython_Installer.zip?dl=1~~
 
 ## 추가 해야 할 점 (메모)
 > ### Portable Mython
